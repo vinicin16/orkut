@@ -3,3 +3,12 @@ html {
     text-align: center;
     
 }
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    width: 50%;
+}
