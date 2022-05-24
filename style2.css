@@ -1,0 +1,12 @@
+html {
+    background-color: #D4DDED;
+    text-align: center;
+}
+#logo {
+    height: 50%;
+    width: 50%;
+}
+
+p{
+    text-align: justify;
+}
